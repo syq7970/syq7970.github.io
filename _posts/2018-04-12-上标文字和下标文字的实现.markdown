@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "上标文字和下标文字的实现"
 date:   2018-04-12 20:47:46 +0800
 categories: jekyll update
